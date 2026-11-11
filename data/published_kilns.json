@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "kiln_name": "Skutt KM-1027 (11,520W 240V 48A) 7.0 Cu Ft Pottery Kiln",
+    "slug": "skutt-km-1027-11520w-240v-48a-70-cu-ft-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Skutt KM-1027 (11,520W 240V 48A) 7.0 Cu Ft Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt KM-1027 (11,520W 240V 48A) 7.0 Cu Ft Pottery Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-11"
+  },
+  {
+    "kiln_name": "Skutt KM-1027-3 (9,980W 240V 41.6A) 3\" Brick Pottery Kiln",
+    "slug": "skutt-km-1027-3-9980w-240v-416a-3-brick-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Skutt KM-1027-3 (9,980W 240V 41.6A) 3\" Brick Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 41.6A load), Cone 6 firing cost ($7.87 / 49.2 kWh), Kanthal element resistance (5.77 Ω), and 208V derating for Skutt KM-1027-3 (9,980W 240V 41.6A) 3\" Brick Pottery Kiln.",
+    "amps": 41.6,
+    "brk_a": 60,
+    "cost": 7.87,
+    "ohms": 5.77,
+    "date": "2026-11-11"
+  },
+  {
+    "kiln_name": "Skutt KM-818 (6,480W 240V 27.0A) 3.2 Cu Ft Pottery Kiln",
+    "slug": "skutt-km-818-6480w-240v-270a-32-cu-ft-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Skutt KM-818 (6,480W 240V 27.0A) 3.2 Cu Ft Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (40A / 8/2 AWG Stranded Copper (90°C THHN) for 27.0A load), Cone 6 firing cost ($5.1 / 31.9 kWh), Kanthal element resistance (8.89 Ω), and 208V derating for Skutt KM-818 (6,480W 240V 27.0A) 3.2 Cu Ft Pottery Kiln.",
+    "amps": 27.0,
+    "brk_a": 40,
+    "cost": 5.1,
+    "ohms": 8.89,
+    "date": "2026-11-11"
+  }
+]

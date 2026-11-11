@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KilnBreakerIndex — Electric Pottery & Knife Kiln Breaker, Wire Size & Firing Cost Calculator (2026)</title>
+  <meta name="description" content="Calculate exact NEC 424.3(B) 125% electric pottery and knife kiln breaker and wire gauge, Cone 04/6/10 firing electricity cost, 240V vs 208V wattage derating, and Kanthal element Ohm resistance for Skutt, L&L, Olympic, Evenheat, and Paragon kilns.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/kiln-breaker-index/">
+  <link rel="alternate" type="application/rss+xml" title="KilnBreakerIndex RSS Feed" href="https://hanifsalman11.github.io/kiln-breaker-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-stone-950 text-stone-100 min-h-screen flex flex-col">
+  <header class="border-b border-stone-800 bg-stone-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-orange-500 text-stone-950 px-2 py-0.5 rounded font-black">KILN</span>BreakerIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Pottery%2BKiln%2BSkutt%2BEvenheat%2BKiln%2BShelf%2BKit%2BNEMA%2B6-50%2BOrton%2BVent&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Kilns, Furniture Kits, Vents & 240V Wiring on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Electric Kiln Breaker, Wire Gauge, Ohm & Cone Firing Cost Database</h1>
+      <p class="text-stone-400 mt-3 text-base sm:text-lg">Select your pottery, glass, or knife heat-treating kiln model below to calculate NEC 424.3(B) 125% continuous breaker sizing, 6 AWG THHN vs. Romex rules, Cone 6/10 kWh firing costs, and Kanthal element Ohms.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search kiln model or amps (e.g. Skutt KM-1027, KM-818, L&L e23T, Evenheat, Paragon, 48A Kiln, 208V vs 240V...)" class="w-full bg-stone-900 border border-stone-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-orange-500">
+      </div>
+    </div>
+
+    <div id="klnGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="skutt-km-818-6480w-240v-270a-32-cu-ft-pottery-kiln-breaker-wire-cost-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-stone-950 px-2.5 py-0.5 rounded">27A → 40A Brk</span>
+            <span class="text-xs text-stone-400">~$5.10/Firing | 8.89 Ω</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">Skutt KM-818 (6,480W 240V 27.0A) 3.2 Cu Ft Pottery Kiln</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact NEC 424 breaker & wire gauge (40A / 8/2 AWG Stranded Copper (90°C THHN) for 27.0A load), Cone 6 firing cost ($5.1 / 31.9 kWh), Kanthal element resistance (8.89 Ω), and 208V derating for Skutt KM-818 (6,480W 240V 27.0A) 3.2 Cu Ft Pottery Kiln.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Breaker, Wire & Firing Cost →</span>
+        </a>
+        <a href="skutt-km-1027-3-9980w-240v-416a-3-brick-pottery-kiln-breaker-wire-cost-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-stone-950 px-2.5 py-0.5 rounded">41.6A → 60A Brk</span>
+            <span class="text-xs text-stone-400">~$7.87/Firing | 5.77 Ω</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">Skutt KM-1027-3 (9,980W 240V 41.6A) 3" Brick Pottery Kiln</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 41.6A load), Cone 6 firing cost ($7.87 / 49.2 kWh), Kanthal element resistance (5.77 Ω), and 208V derating for Skutt KM-1027-3 (9,980W 240V 41.6A) 3" Brick Pottery Kiln.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Breaker, Wire & Firing Cost →</span>
+        </a>
+        <a href="skutt-km-1027-11520w-240v-48a-70-cu-ft-pottery-kiln-breaker-wire-cost-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-stone-950 px-2.5 py-0.5 rounded">48A → 60A Brk</span>
+            <span class="text-xs text-stone-400">~$9.09/Firing | 5.0 Ω</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">Skutt KM-1027 (11,520W 240V 48A) 7.0 Cu Ft Pottery Kiln</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt KM-1027 (11,520W 240V 48A) 7.0 Cu Ft Pottery Kiln.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Breaker, Wire & Firing Cost →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-stone-800 py-8 text-center text-xs text-stone-500">
+    <p>© 2026 KilnBreakerIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('klnGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
