@@ -97,5 +97,38 @@
     "cost": 4.35,
     "ohms": 10.43,
     "date": "2026-11-12"
+  },
+  {
+    "kiln_name": "L&L e28T-3 (11,520W 240V 48.0A) 10.2 Cu Ft Pottery Kiln",
+    "slug": "ll-e28t-3-11520w-240v-480a-102-cu-ft-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "L&L e28T-3 (11,520W 240V 48.0A) 10.2 Cu Ft Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for L&L e28T-3 (11,520W 240V 48.0A) 10.2 Cu Ft Pottery Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-12"
+  },
+  {
+    "kiln_name": "Olympic 2327HE (11,520W 240V 48.0A) Electric Pottery Kiln",
+    "slug": "olympic-2327he-11520w-240v-480a-electric-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Olympic 2327HE (11,520W 240V 48.0A) Electric Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Olympic 2327HE (11,520W 240V 48.0A) Electric Pottery Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-12"
+  },
+  {
+    "kiln_name": "Olympic 1823HE (7,920W 240V 33.0A) Home Studio Kiln",
+    "slug": "olympic-1823he-7920w-240v-330a-home-studio-kiln-breaker-wire-cost-calculator",
+    "title": "Olympic 1823HE (7,920W 240V 33.0A) Home Studio Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 33.0A load), Cone 6 firing cost ($6.24 / 39.0 kWh), Kanthal element resistance (7.27 Ω), and 208V derating for Olympic 1823HE (7,920W 240V 33.0A) Home Studio Kiln.",
+    "amps": 33.0,
+    "brk_a": 50,
+    "cost": 6.24,
+    "ohms": 7.27,
+    "date": "2026-11-12"
   }
 ]
