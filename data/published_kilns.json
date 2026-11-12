@@ -31,5 +31,38 @@
     "cost": 5.1,
     "ohms": 8.89,
     "date": "2026-11-11"
+  },
+  {
+    "kiln_name": "Skutt KM-822 (8,640W 240V 36.0A) 4.2 Cu Ft Pottery Kiln",
+    "slug": "skutt-km-822-8640w-240v-360a-42-cu-ft-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Skutt KM-822 (8,640W 240V 36.0A) 4.2 Cu Ft Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 36.0A load), Cone 6 firing cost ($6.82 / 42.6 kWh), Kanthal element resistance (6.67 Ω), and 208V derating for Skutt KM-822 (8,640W 240V 36.0A) 4.2 Cu Ft Pottery Kiln.",
+    "amps": 36.0,
+    "brk_a": 50,
+    "cost": 6.82,
+    "ohms": 6.67,
+    "date": "2026-11-12"
+  },
+  {
+    "kiln_name": "Skutt KM-1227-3PK (14,300W 240V 59.6A) 9.9 Cu Ft Studio Kiln",
+    "slug": "skutt-km-1227-3pk-14300w-240v-596a-99-cu-ft-studio-kiln-breaker-wire-cost-calculator",
+    "title": "Skutt KM-1227-3PK (14,300W 240V 59.6A) 9.9 Cu Ft Studio Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (80A / 4 AWG THHN Copper in Conduit for 59.6A load), Cone 6 firing cost ($11.28 / 70.5 kWh), Kanthal element resistance (4.03 Ω), and 208V derating for Skutt KM-1227-3PK (14,300W 240V 59.6A) 9.9 Cu Ft Studio Kiln.",
+    "amps": 59.6,
+    "brk_a": 80,
+    "cost": 11.28,
+    "ohms": 4.03,
+    "date": "2026-11-12"
+  },
+  {
+    "kiln_name": "Skutt FireBox 8x6 & 14 (1,800W 120V 15A) Glass & Test Kiln",
+    "slug": "skutt-firebox-8x6-14-1800w-120v-15a-glass-test-kiln-breaker-wire-cost-calculator",
+    "title": "Skutt FireBox 8x6 & 14 (1,800W 120V 15A) Glass & Test Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (20A / 12/2 AWG Copper (90°C THHN/NM-B) for 15.0A load), Cone 6 firing cost ($1.42 / 8.9 kWh), Kanthal element resistance (8.0 Ω), and 208V derating for Skutt FireBox 8x6 & 14 (1,800W 120V 15A) Glass & Test Kiln.",
+    "amps": 15.0,
+    "brk_a": 20,
+    "cost": 1.42,
+    "ohms": 8.0,
+    "date": "2026-11-12"
   }
 ]
