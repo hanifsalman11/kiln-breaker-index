@@ -130,5 +130,38 @@
     "cost": 6.24,
     "ohms": 7.27,
     "date": "2026-11-12"
+  },
+  {
+    "kiln_name": "Olympic Doll E / 1214HE (3,360W 240V 14A / 120V 28A) Kiln",
+    "slug": "olympic-doll-e-1214he-3360w-240v-14a-120v-28a-kiln-breaker-wire-cost-calculator",
+    "title": "Olympic Doll E / 1214HE (3,360W 240V 14A / 120V 28A) Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (20A / 12/2 AWG Copper (90°C THHN/NM-B) for 14.0A load), Cone 6 firing cost ($2.66 / 16.6 kWh), Kanthal element resistance (17.14 Ω), and 208V derating for Olympic Doll E / 1214HE (3,360W 240V 14A / 120V 28A) Kiln.",
+    "amps": 14.0,
+    "brk_a": 20,
+    "cost": 2.66,
+    "ohms": 17.14,
+    "date": "2026-11-13"
+  },
+  {
+    "kiln_name": "Cone Art BX2327D (11,000W 240V 45.8A) Double-Insulated Kiln",
+    "slug": "cone-art-bx2327d-11000w-240v-458a-double-insulated-kiln-breaker-wire-cost-calculator",
+    "title": "Cone Art BX2327D (11,000W 240V 45.8A) Double-Insulated Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 45.8A load), Cone 6 firing cost ($8.67 / 54.2 kWh), Kanthal element resistance (5.24 Ω), and 208V derating for Cone Art BX2327D (11,000W 240V 45.8A) Double-Insulated Kiln.",
+    "amps": 45.8,
+    "brk_a": 60,
+    "cost": 8.67,
+    "ohms": 5.24,
+    "date": "2026-11-13"
+  },
+  {
+    "kiln_name": "Evenheat KH418 & KF22.5 (3,120W 240V 13A) Knife Heat-Treat Oven",
+    "slug": "evenheat-kh418-kf225-3120w-240v-13a-knife-heat-treat-oven-breaker-wire-cost-calculator",
+    "title": "Evenheat KH418 & KF22.5 (3,120W 240V 13A) Knife Heat-Treat Oven Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (20A / 12/2 AWG Copper (90°C THHN/NM-B) for 13.0A load), Cone 6 firing cost ($2.46 / 15.4 kWh), Kanthal element resistance (18.46 Ω), and 208V derating for Evenheat KH418 & KF22.5 (3,120W 240V 13A) Knife Heat-Treat Oven.",
+    "amps": 13.0,
+    "brk_a": 20,
+    "cost": 2.46,
+    "ohms": 18.46,
+    "date": "2026-11-13"
   }
 ]
