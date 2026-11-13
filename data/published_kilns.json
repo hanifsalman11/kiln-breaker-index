@@ -163,5 +163,38 @@
     "cost": 2.46,
     "ohms": 18.46,
     "date": "2026-11-13"
+  },
+  {
+    "kiln_name": "Evenheat LB18 & LB27 (3,600W 240V 15A) Knife Heat-Treat Kiln",
+    "slug": "evenheat-lb18-lb27-3600w-240v-15a-knife-heat-treat-kiln-breaker-wire-cost-calculator",
+    "title": "Evenheat LB18 & LB27 (3,600W 240V 15A) Knife Heat-Treat Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (20A / 12/2 AWG Copper (90°C THHN/NM-B) for 15.0A load), Cone 6 firing cost ($2.83 / 17.7 kWh), Kanthal element resistance (16.0 Ω), and 208V derating for Evenheat LB18 & LB27 (3,600W 240V 15A) Knife Heat-Treat Kiln.",
+    "amps": 15.0,
+    "brk_a": 20,
+    "cost": 2.83,
+    "ohms": 16.0,
+    "date": "2026-11-13"
+  },
+  {
+    "kiln_name": "Evenheat RM II 2322 (9,600W 240V 40.0A) Pottery Kiln",
+    "slug": "evenheat-rm-ii-2322-9600w-240v-400a-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Evenheat RM II 2322 (9,600W 240V 40.0A) Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 40.0A load), Cone 6 firing cost ($7.57 / 47.3 kWh), Kanthal element resistance (6.0 Ω), and 208V derating for Evenheat RM II 2322 (9,600W 240V 40.0A) Pottery Kiln.",
+    "amps": 40.0,
+    "brk_a": 50,
+    "cost": 7.57,
+    "ohms": 6.0,
+    "date": "2026-11-13"
+  },
+  {
+    "kiln_name": "Paragon KM-24D & KM-36D (240V 13A–20A) Knife Making Furnace",
+    "slug": "paragon-km-24d-km-36d-240v-13a20a-knife-making-furnace-breaker-wire-cost-calculator",
+    "title": "Paragon KM-24D & KM-36D (240V 13A–20A) Knife Making Furnace Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (25A / 10/2 AWG Copper (90°C THHN/NM-B) for 17.5A load), Cone 6 firing cost ($3.31 / 20.7 kWh), Kanthal element resistance (13.71 Ω), and 208V derating for Paragon KM-24D & KM-36D (240V 13A–20A) Knife Making Furnace.",
+    "amps": 17.5,
+    "brk_a": 25,
+    "cost": 3.31,
+    "ohms": 13.71,
+    "date": "2026-11-13"
   }
 ]
