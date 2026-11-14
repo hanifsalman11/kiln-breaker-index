@@ -229,5 +229,38 @@
     "cost": 8.7,
     "ohms": 5.22,
     "date": "2026-11-14"
+  },
+  {
+    "kiln_name": "Amaco Excel EX-270 & EX-365 (240V / 208V) School Pottery Kiln",
+    "slug": "amaco-excel-ex-270-ex-365-240v-208v-school-pottery-kiln-breaker-wire-cost-calculator",
+    "title": "Amaco Excel EX-270 & EX-365 (240V / 208V) School Pottery Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Amaco Excel EX-270 & EX-365 (240V / 208V) School Pottery Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-14"
+  },
+  {
+    "kiln_name": "48-Amp Kiln on 60-Amp Breaker vs 50-Amp NEMA 6-50R Code Rule",
+    "slug": "48-amp-kiln-on-60-amp-breaker-vs-50-amp-nema-6-50r-code-rule-breaker-wire-cost-calculator",
+    "title": "48-Amp Kiln on 60-Amp Breaker vs 50-Amp NEMA 6-50R Code Rule Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for 48-Amp Kiln on 60-Amp Breaker vs 50-Amp NEMA 6-50R Code Rule.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-14"
+  },
+  {
+    "kiln_name": "40-Amp Kiln on 50-Amp Breaker & 6 AWG NEMA 6-50 Plug Setup",
+    "slug": "40-amp-kiln-on-50-amp-breaker-6-awg-nema-6-50-plug-setup-breaker-wire-cost-calculator",
+    "title": "40-Amp Kiln on 50-Amp Breaker & 6 AWG NEMA 6-50 Plug Setup Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 40.0A load), Cone 6 firing cost ($7.57 / 47.3 kWh), Kanthal element resistance (6.0 Ω), and 208V derating for 40-Amp Kiln on 50-Amp Breaker & 6 AWG NEMA 6-50 Plug Setup.",
+    "amps": 40.0,
+    "brk_a": 50,
+    "cost": 7.57,
+    "ohms": 6.0,
+    "date": "2026-11-14"
   }
 ]
