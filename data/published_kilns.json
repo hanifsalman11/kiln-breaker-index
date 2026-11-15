@@ -328,5 +328,38 @@
     "cost": 9.09,
     "ohms": 5.0,
     "date": "2026-11-15"
+  },
+  {
+    "kiln_name": "What  Breaker  A Kiln",
+    "slug": "what-breaker-a-kiln-breaker-wire-cost-calculator",
+    "title": "What  Breaker  A Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for What  Breaker  A Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-15"
+  },
+  {
+    "kiln_name": "What  Wire  A Kiln",
+    "slug": "what-wire-a-kiln-breaker-wire-cost-calculator",
+    "title": "What  Wire  A Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for What  Wire  A Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-15"
+  },
+  {
+    "kiln_name": "What  Kiln Do I Need",
+    "slug": "what-kiln-do-i-need-breaker-wire-cost-calculator",
+    "title": "What  Kiln Do I Need Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for What  Kiln Do I Need.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-15"
   }
 ]
