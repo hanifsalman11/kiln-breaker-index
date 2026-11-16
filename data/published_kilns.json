@@ -361,5 +361,38 @@
     "cost": 9.09,
     "ohms": 5.0,
     "date": "2026-11-15"
+  },
+  {
+    "kiln_name": "How Many Amps Does A Kiln Use",
+    "slug": "how-many-amps-does-a-kiln-use-breaker-wire-cost-calculator",
+    "title": "How Many Amps Does A Kiln Use Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for How Many Amps Does A Kiln Use.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-16"
+  },
+  {
+    "kiln_name": "What Kind Of Outlet Does A Kiln Need",
+    "slug": "what-kind-of-outlet-does-a-kiln-need-breaker-wire-cost-calculator",
+    "title": "What Kind Of Outlet Does A Kiln Need Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for What Kind Of Outlet Does A Kiln Need.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-16"
+  },
+  {
+    "kiln_name": "What Kind Of Wire Can Go In A Kiln",
+    "slug": "what-kind-of-wire-can-go-in-a-kiln-breaker-wire-cost-calculator",
+    "title": "What Kind Of Wire Can Go In A Kiln Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for What Kind Of Wire Can Go In A Kiln.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-16"
   }
 ]
