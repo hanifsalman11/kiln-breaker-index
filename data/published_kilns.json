@@ -394,5 +394,38 @@
     "cost": 9.09,
     "ohms": 5.0,
     "date": "2026-11-16"
+  },
+  {
+    "kiln_name": "Skutt Kiln  Sale",
+    "slug": "skutt-kiln-sale-breaker-wire-cost-calculator",
+    "title": "Skutt Kiln  Sale Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt Kiln  Sale.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-16"
+  },
+  {
+    "kiln_name": "Skutt Kiln 1027",
+    "slug": "skutt-kiln-1027-breaker-wire-cost-calculator",
+    "title": "Skutt Kiln 1027 Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt Kiln 1027.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-16"
+  },
+  {
+    "kiln_name": "Skutt Kiln Parts",
+    "slug": "skutt-kiln-parts-breaker-wire-cost-calculator",
+    "title": "Skutt Kiln Parts Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt Kiln Parts.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-16"
   }
 ]
