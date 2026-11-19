@@ -559,5 +559,38 @@
     "cost": 9.09,
     "ohms": 5.0,
     "date": "2026-11-18"
+  },
+  {
+    "kiln_name": "Skutt Kiln App",
+    "slug": "skutt-kiln-app-breaker-wire-cost-calculator",
+    "title": "Skutt Kiln App Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt Kiln App.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-19"
+  },
+  {
+    "kiln_name": "Evenheat Kiln Replacement Parts",
+    "slug": "evenheat-kiln-replacement-parts-breaker-wire-cost-calculator",
+    "title": "Evenheat Kiln Replacement Parts Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Evenheat Kiln Replacement Parts.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-19"
+  },
+  {
+    "kiln_name": "Evenheat Kiln Hb 120",
+    "slug": "evenheat-kiln-hb-120-breaker-wire-cost-calculator",
+    "title": "Evenheat Kiln Hb 120 Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Evenheat Kiln Hb 120.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-19"
   }
 ]
