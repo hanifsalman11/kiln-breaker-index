@@ -625,5 +625,16 @@
     "cost": 9.09,
     "ohms": 5.0,
     "date": "2026-11-19"
+  },
+  {
+    "kiln_name": "15A (3,600W) Knife / Test Kiln — Cone 04 Bisque Firing (1,945°F)",
+    "slug": "15a-3600w-knife-test-kiln-cone-04-bisque-firing-1945f-breaker-wire-cost-calculator",
+    "title": "15A (3,600W) Knife / Test Kiln — Cone 04 Bisque Firing (1,945°F) Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (20A / 12/2 AWG Copper (90°C THHN/NM-B) for 15.0A load), Cone 6 firing cost ($2.83 / 17.7 kWh), Kanthal element resistance (16.0 Ω), and 208V derating for 15A (3,600W) Knife / Test Kiln — Cone 04 Bisque Firing (1,945°F).",
+    "amps": 15.0,
+    "brk_a": 20,
+    "cost": 2.83,
+    "ohms": 16.0,
+    "date": "2026-11-20"
   }
 ]
