@@ -647,5 +647,38 @@
     "cost": 2.83,
     "ohms": 16.0,
     "date": "2026-11-20"
+  },
+  {
+    "kiln_name": "Evenheat Kiln Hot Shot",
+    "slug": "evenheat-kiln-hot-shot-breaker-wire-cost-calculator",
+    "title": "Evenheat Kiln Hot Shot Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Evenheat Kiln Hot Shot.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-21"
+  },
+  {
+    "kiln_name": "Evenheat Kiln Element Replacement",
+    "slug": "evenheat-kiln-element-replacement-breaker-wire-cost-calculator",
+    "title": "Evenheat Kiln Element Replacement Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Evenheat Kiln Element Replacement.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-21"
+  },
+  {
+    "kiln_name": "15A (3,600W) Knife / Test Kiln — Cone 10 High-Fire Reduction/Oxidation (2,345°F)",
+    "slug": "15a-3600w-knife-test-kiln-cone-10-high-fire-reductionoxidation-2345f-breaker-wire-cost-calculator",
+    "title": "15A (3,600W) Knife / Test Kiln — Cone 10 High-Fire Reduction/Oxidation (2,345°F) Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (20A / 12/2 AWG Copper (90°C THHN/NM-B) for 15.0A load), Cone 6 firing cost ($2.83 / 17.7 kWh), Kanthal element resistance (16.0 Ω), and 208V derating for 15A (3,600W) Knife / Test Kiln — Cone 10 High-Fire Reduction/Oxidation (2,345°F).",
+    "amps": 15.0,
+    "brk_a": 20,
+    "cost": 2.83,
+    "ohms": 16.0,
+    "date": "2026-11-21"
   }
 ]
