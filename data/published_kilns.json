@@ -724,5 +724,16 @@
     "cost": 4.54,
     "ohms": 10.0,
     "date": "2026-11-23"
+  },
+  {
+    "kiln_name": "24A (5,760W) Small Studio Kiln — 208V vs 240V Element Derating",
+    "slug": "24a-5760w-small-studio-kiln-208v-vs-240v-element-derating-breaker-wire-cost-calculator",
+    "title": "24A (5,760W) Small Studio Kiln — 208V vs 240V Element Derating Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (30A / 10/2 AWG Copper (90°C THHN/NM-B) for 24.0A load), Cone 6 firing cost ($4.54 / 28.4 kWh), Kanthal element resistance (10.0 Ω), and 208V derating for 24A (5,760W) Small Studio Kiln — 208V vs 240V Element Derating.",
+    "amps": 24.0,
+    "brk_a": 30,
+    "cost": 4.54,
+    "ohms": 10.0,
+    "date": "2026-11-23"
   }
 ]
