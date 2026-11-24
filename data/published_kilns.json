@@ -735,5 +735,16 @@
     "cost": 4.54,
     "ohms": 10.0,
     "date": "2026-11-23"
+  },
+  {
+    "kiln_name": "30A (7,200W) Medium Ceramic Kiln — Cone 04 Bisque Firing (1,945°F)",
+    "slug": "30a-7200w-medium-ceramic-kiln-cone-04-bisque-firing-1945f-breaker-wire-cost-calculator",
+    "title": "30A (7,200W) Medium Ceramic Kiln — Cone 04 Bisque Firing (1,945°F) Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (40A / 8/2 AWG Stranded Copper (90°C THHN) for 30.0A load), Cone 6 firing cost ($5.68 / 35.5 kWh), Kanthal element resistance (8.0 Ω), and 208V derating for 30A (7,200W) Medium Ceramic Kiln — Cone 04 Bisque Firing (1,945°F).",
+    "amps": 30.0,
+    "brk_a": 40,
+    "cost": 5.68,
+    "ohms": 8.0,
+    "date": "2026-11-24"
   }
 ]
