@@ -790,5 +790,38 @@
     "cost": 5.68,
     "ohms": 8.0,
     "date": "2026-11-25"
+  },
+  {
+    "kiln_name": "Skutt Kiln Thermocouple",
+    "slug": "skutt-kiln-thermocouple-breaker-wire-cost-calculator",
+    "title": "Skutt Kiln Thermocouple Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Skutt Kiln Thermocouple.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-26"
+  },
+  {
+    "kiln_name": "Evenheat Kiln Elements",
+    "slug": "evenheat-kiln-elements-breaker-wire-cost-calculator",
+    "title": "Evenheat Kiln Elements Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (60A / 6 AWG THHN Copper in Conduit (75°C Column — NO 6/2 Romex!) for 48.0A load), Cone 6 firing cost ($9.09 / 56.8 kWh), Kanthal element resistance (5.0 Ω), and 208V derating for Evenheat Kiln Elements.",
+    "amps": 48.0,
+    "brk_a": 60,
+    "cost": 9.09,
+    "ohms": 5.0,
+    "date": "2026-11-26"
+  },
+  {
+    "kiln_name": "36A (8,640W) Mid-Size Pottery Kiln — Cone 04 Bisque Firing (1,945°F)",
+    "slug": "36a-8640w-mid-size-pottery-kiln-cone-04-bisque-firing-1945f-breaker-wire-cost-calculator",
+    "title": "36A (8,640W) Mid-Size Pottery Kiln — Cone 04 Bisque Firing (1,945°F) Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 36.0A load), Cone 6 firing cost ($6.82 / 42.6 kWh), Kanthal element resistance (6.67 Ω), and 208V derating for 36A (8,640W) Mid-Size Pottery Kiln — Cone 04 Bisque Firing (1,945°F).",
+    "amps": 36.0,
+    "brk_a": 50,
+    "cost": 6.82,
+    "ohms": 6.67,
+    "date": "2026-11-26"
   }
 ]
