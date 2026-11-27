@@ -856,5 +856,16 @@
     "cost": 6.82,
     "ohms": 6.67,
     "date": "2026-11-27"
+  },
+  {
+    "kiln_name": "36A (8,640W) Mid-Size Pottery Kiln — 208V vs 240V Element Derating",
+    "slug": "36a-8640w-mid-size-pottery-kiln-208v-vs-240v-element-derating-breaker-wire-cost-calculator",
+    "title": "36A (8,640W) Mid-Size Pottery Kiln — 208V vs 240V Element Derating Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 36.0A load), Cone 6 firing cost ($6.82 / 42.6 kWh), Kanthal element resistance (6.67 Ω), and 208V derating for 36A (8,640W) Mid-Size Pottery Kiln — 208V vs 240V Element Derating.",
+    "amps": 36.0,
+    "brk_a": 50,
+    "cost": 6.82,
+    "ohms": 6.67,
+    "date": "2026-11-27"
   }
 ]
