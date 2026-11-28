@@ -867,5 +867,16 @@
     "cost": 6.82,
     "ohms": 6.67,
     "date": "2026-11-27"
+  },
+  {
+    "kiln_name": "40A (9,600W) NEMA 6-50 Pottery Kiln — Cone 04 Bisque Firing (1,945°F)",
+    "slug": "40a-9600w-nema-6-50-pottery-kiln-cone-04-bisque-firing-1945f-breaker-wire-cost-calculator",
+    "title": "40A (9,600W) NEMA 6-50 Pottery Kiln — Cone 04 Bisque Firing (1,945°F) Breaker, Wire Size (AWG), Ohm & Firing Cost Calculator (2026)",
+    "description": "Calculate exact NEC 424 breaker & wire gauge (50A / 6 AWG THHN Copper in Conduit (or 6/2 NM-B) for 40.0A load), Cone 6 firing cost ($7.57 / 47.3 kWh), Kanthal element resistance (6.0 Ω), and 208V derating for 40A (9,600W) NEMA 6-50 Pottery Kiln — Cone 04 Bisque Firing (1,945°F).",
+    "amps": 40.0,
+    "brk_a": 50,
+    "cost": 7.57,
+    "ohms": 6.0,
+    "date": "2026-11-28"
   }
 ]
